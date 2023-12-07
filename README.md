@@ -5,13 +5,13 @@
 
 
 
-I completed a modest networking project based on a case study in which I used a number of networking concepts, including VLANs, IP addressing, OSPF, VoIP, Dial Peering, Routers, Switchs, SSH, DHCP, Basic Device Settings, Inter-VLAN Routing and Subnetting.
+I completed a modest networking project based on a case study in which I used a number of networking concepts, including VLANs, IP addressing, OSPF, VoIP, Dial Peering, Routers, Switches, SSH, DHCP, Basic Device Settings, Inter-VLAN Routing and Subnetting.
 
 
 
 
 
-Turtle Consultancy Limited specialised in delivering IT infrastructure solutions to medium sized organizations worldwide. With the expansion of the company, a newly acquired branch needs a network. Your manager is faced with the demands of business and plethora of technology challenges.
+Turtle Consultancy Limited specialized in delivering IT infrastructure solutions to medium sized organizations worldwide. With the expansion of the company, a newly acquired branch needs a network. Your manager is faced with the demands of business and plethora of technology challenges.
 
 
 
